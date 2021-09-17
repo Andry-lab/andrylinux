@@ -42,6 +42,7 @@ h1, h2{
  border: 2px solid black;
 }
 .contatti{
+ background-color: orange;
  padding: 15px;
  text-transform: capitalize;
  font-family: 'Lato', sans-serif;
