@@ -1,0 +1,61 @@
+.andry {
+ color: chocolate;
+ font-family: Impact;
+ text-align: center;
+ text-transform: capitalize;
+ font-family: 'Lato', sans-serif;
+ border-style: solid;
+ border-width: 15px;
+ border-color: black;
+ border-radius: 15px;
+ border: 2px solid black;
+}
+
+div{
+ height: 400px;
+ width: 100%;
+ background-color: orange;
+ border-style: solid;
+ border-width: 4px;
+ border-color: black;
+ border-radius: 10px;
+}
+
+h1, h2{
+ padding: 30px;
+ text-transform: capitalize;
+ font-family: 'Lato', sans-serif;
+ border-style: solid;
+ border-width: 15px;
+ border-color: black;
+ border-radius: 15px;
+ border: 2px solid black;
+}
+
+.ciao{
+ margin-top: 500px;
+ margin-left: 100px;
+ padding: 15px;
+ text-transform: capitalize;
+ font-family: 'Lato', sans-serif;
+ border-style: solid;
+ border-width: 15px;
+ border-color: red;
+ border-radius: 15px;
+ border: 2px solid black;
+}
+
+
+
+.button{
+ margin-left: 100px;
+ padding: 15px;
+ text-transform: capitalize;
+ font-family: 'Lato', sans-serif;
+ border-style: solid;
+ border-width: 15px;
+ border-color: red;
+ border-radius: 15px;
+ border: 2px solid black;
+ 
+}
